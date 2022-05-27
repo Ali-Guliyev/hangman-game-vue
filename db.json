@@ -1,7 +1,8 @@
 {
-    "topics": {
-        "animals": {
+    "topics": [
+        {
             "id": 1,
+            "name": "Animals",
             "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
             "words": [
                 "dog",
@@ -29,8 +30,9 @@
                 "hamster"
             ]
         },
-        "programming_languages": {
+        {
             "id": 2,
+            "name": "Programming Languages",
             "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
             "words": [
                 "html",
@@ -49,8 +51,9 @@
                 "typescript"
             ]
         },
-        "places": {
+        {
             "id": 3,
+            "name": "Famous Places",
             "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
             "words": [
                 "russia",
@@ -87,8 +90,9 @@
                 "germany"
             ]
         },
-        "soccer_teams": {
+        {
             "id": 4,
+            "name"; "Football Teams"
             "image": "https://cdn-icons-png.flaticon.com/512/1165/1165249.png",
             "words": [
                 "real madrid",
@@ -105,8 +109,9 @@
                 "millan"
             ]
         },
-        "space": {
+        {
             "id": 5,
+            "name": "Space",
             "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653680979~hmac=a8b915c73d7e4ee12a527fbcc187c9be",
             "words": [
                 "solar system",
@@ -124,5 +129,5 @@
                 "milky way"
             ]
         }
-    }
+    ]
 }
