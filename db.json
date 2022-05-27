@@ -1,6 +1,7 @@
 {
     "topics": {
         "animals": {
+            "id": 1,
             "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
             "words": [
                 "dog",
@@ -29,6 +30,7 @@
             ]
         },
         "programming_languages": {
+            "id": 2,
             "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
             "words": [
                 "html",
@@ -48,6 +50,7 @@
             ]
         },
         "places": {
+            "id": 3,
             "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
             "words": [
                 "russia",
@@ -85,6 +88,7 @@
             ]
         },
         "soccer_teams": {
+            "id": 4,
             "image": "https://cdn-icons-png.flaticon.com/512/1165/1165249.png",
             "words": [
                 "real madrid",
@@ -102,6 +106,7 @@
             ]
         },
         "space": {
+            "id": 5,
             "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653680979~hmac=a8b915c73d7e4ee12a527fbcc187c9be",
             "words": [
                 "solar system",
