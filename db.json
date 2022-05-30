@@ -33,7 +33,7 @@
         {
             "id": 2,
             "name": "Programming Languages",
-            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
+            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653771207~hmac=ff4f50be404f09b6b7daec6b5a545bbf",
             "words": [
                 "html",
                 "css",
@@ -53,8 +53,8 @@
         },
         {
             "id": 3,
-            "name": "Famous Places",
-            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
+            "name": "Countries and Cities",
+            "image": "https://cdn-icons-png.flaticon.com/512/1692/1692037.png",
             "words": [
                 "russia",
                 "united states of america",
@@ -112,7 +112,7 @@
         {
             "id": 5,
             "name": "Space",
-            "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653680979~hmac=a8b915c73d7e4ee12a527fbcc187c9be",
+            "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653905544~hmac=2e0ac2646eeba5222244b28c5de6a866",
             "words": [
                 "solar system",
                 "mercury",
