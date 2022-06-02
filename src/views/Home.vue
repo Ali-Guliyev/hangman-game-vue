@@ -1,3 +1,10 @@
 <template>
-    <h1 class="">Hello World</h1>
+    <TopicList />
 </template>
+
+<script>
+import TopicList from "../components/TopicList.vue";
+export default {
+    components: { TopicList },
+};
+</script>
