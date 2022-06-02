@@ -1,6 +1,8 @@
 {
-    "topics": {
-        "animals": {
+    "topics": [
+        {
+            "id": 1,
+            "name": "Animals",
             "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
             "words": [
                 "dog",
@@ -28,8 +30,10 @@
                 "hamster"
             ]
         },
-        "programming_languages": {
-            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
+        {
+            "id": 2,
+            "name": "Programming Languages",
+            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653911430~hmac=871890596dfc33ffd4b2eaa789a3e3c9",
             "words": [
                 "html",
                 "css",
@@ -47,8 +51,10 @@
                 "typescript"
             ]
         },
-        "places": {
-            "image": "https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1653680557~hmac=ca28982f9139bdd7ea03805418b2c245",
+        {
+            "id": 3,
+            "name": "Countries and Cities",
+            "image": "https://cdn-icons-png.flaticon.com/512/1692/1692037.png",
             "words": [
                 "russia",
                 "united states of america",
@@ -62,7 +68,7 @@
                 "chrovatia",
                 "north korea",
                 "japan",
-                "audtralia",
+                "australia",
                 "spain",
                 "argentina",
                 "france",
@@ -84,7 +90,9 @@
                 "germany"
             ]
         },
-        "soccer_teams": {
+        {
+            "id": 4,
+            "name": "Football Teams",
             "image": "https://cdn-icons-png.flaticon.com/512/1165/1165249.png",
             "words": [
                 "real madrid",
@@ -101,8 +109,10 @@
                 "millan"
             ]
         },
-        "space": {
-            "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653680979~hmac=a8b915c73d7e4ee12a527fbcc187c9be",
+        {
+            "id": 5,
+            "name": "Space",
+            "image": "https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1653905544~hmac=2e0ac2646eeba5222244b28c5de6a866",
             "words": [
                 "solar system",
                 "mercury",
@@ -119,5 +129,5 @@
                 "milky way"
             ]
         }
-    }
+    ]
 }
